@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="button">Button</string>
+    <string name="show">Show</string>
+    <string name="title_location_permission">This App Uses Location Service To Get Current Location</string>
+    <string name="text_location_permission">Press Ok</string>
+    <string name="ok">ok</string>
+</resources>
